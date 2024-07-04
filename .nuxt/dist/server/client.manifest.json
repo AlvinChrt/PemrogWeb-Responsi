@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "D:/Alvin - 22.11.4613/Kuliah 4/Pemrograman Web/Responsi 3/nuxt-individu-main/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "D:/Alvin - 22.11.4613/Kuliah 4/Pemrograman Web/Responsi 3/nuxt-individu-main/node_modules/nuxt/dist/app/entry.js"
+  }
+}
